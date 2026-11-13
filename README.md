@@ -1,43 +1,27 @@
- <div align="center">
+ # 💫 About Me:
+🌐 Web Developer dedicated to crafting fast, accessible, and user-friendly websites and web applications.<br>✨ Passionate about transforming creative concepts into interactive, responsive user interfaces.<br>🧩 Skilled in combining visual aesthetics with clean, structured web architecture.<br>⚡ Constantly exploring modern web frameworks and AI tools to build smarter digital experiences.<br>🌍 Driven to create practical web solutions that empower local businesses, creators, and communities.<br>🤝 Open to freelance projects, open-source contributions, and creative collaborations.<br>
 
-# Hi there, I'm Nagaad 👋
 
-### Frontend & Web Developer • UI/UX Designer • Digital Creator
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmiiraQuru) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/amiiraqurux656) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ganggirl623) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@amiiraqurux2751) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amiira Qurux) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amiiraqurux656@gmail.com) 
 
-I design and build clean, responsive, and modern web experiences that bring ideas to life.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nagad-net&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nagad-net&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nagad-net&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**`🌐 Web Developer`** • **`🎨 UI/UX Enthusiast`** • **`🚀 Digital Builder`**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nagad-net&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 👩‍💻 About Me
-
-* 🌐 **Web Developer** dedicated to crafting fast, accessible, and user-friendly websites and web applications.
-* ✨ Passionate about transforming creative concepts into **interactive, responsive user interfaces**.
-* 🧩 Skilled in combining **visual aesthetics** with **clean, structured web architecture**.
-* ⚡ Constantly exploring **modern web frameworks and AI tools** to build smarter digital experiences.
-* 🌍 Driven to create **practical web solutions** that empower local businesses, creators, and communities.
-* 🤝 Open to **freelance projects, open-source contributions, and creative collaborations**.
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend Development
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React` • `Next.js` • `Tailwind CSS` • `Responsive Design`
-
-#### ⚙️ Backend & Database
-`Node.js` • `PostgreSQL` • `Supabase` • `REST APIs` • `Database Design`
-
-#### 🧰 Tools & Workflow
-`Git` • `GitHub` • `Vercel` • `Figma` • `VS Code`
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nagad-net&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=nagad-net&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎯 Current Focus
-
-* 🔭 Building modern, high-performance **web applications** from scratch.
-* 🌱 Deepening expertise in **full-stack architecture** and **cloud deployment**.
-* 💬 Always happy to connect and collaborate on **innovative web projects**.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
