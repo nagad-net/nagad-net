@@ -6,7 +6,10 @@
 
 I design and build clean, responsive, and modern web experiences that bring ideas to life.
 
-</div># 💫 About Me:
+</div>
+
+# 💫 About Me:
+
 🌐 Web Developer dedicated to crafting fast, accessible, and user-friendly websites and web applications.<br>✨ Passionate about transforming creative concepts into interactive, responsive user interfaces.<br>🧩 Skilled in combining visual aesthetics with clean, structured web architecture.<br>⚡ Constantly exploring modern web frameworks and AI tools to build smarter digital experiences.<br>🌍 Driven to create practical web solutions that empower local businesses, creators, and communities.<br>🤝 Open to freelance projects, open-source contributions, and creative collaborations.<br>
 
 
